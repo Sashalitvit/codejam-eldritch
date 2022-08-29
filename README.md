@@ -1,2 +1,1 @@
-# codejam-eldritch
-codejam
+https://github.com/Sashalitvit/codejam-eldritch
